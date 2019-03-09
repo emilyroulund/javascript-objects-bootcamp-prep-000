@@ -11,6 +11,5 @@ var playlist = {
   
  function removeFromPlaylist(playlist, artistName){
    delete playlist.artistName;
-   playlist 
  }
  //body of function should delete the key-value pair from the playlist and return the updated playlist 
