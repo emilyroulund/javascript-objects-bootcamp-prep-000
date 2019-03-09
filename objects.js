@@ -13,4 +13,5 @@ var playlist = {
    delete playlist[artistName];
    return playlist;
  }
+ //the delete operate with '.' doesnt work 
  //body of function should delete the key-value pair from the playlist and return the updated playlist 
