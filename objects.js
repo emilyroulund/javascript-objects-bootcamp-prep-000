@@ -10,6 +10,6 @@ var playlist = {
   //accepts three paramenters; body should add the song and artist as a key-value pair to playlist object 
   
  function removeFromPlaylist(playlist, artistName){
-   
+   delete playlist.artistName;
  }
  //body of function should delete the key-value pair from the playlist and return the updated playlist 
