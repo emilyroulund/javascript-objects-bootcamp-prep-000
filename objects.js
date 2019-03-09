@@ -1,5 +1,5 @@
 var playlist = { 
-  artis: "song"
+  artistName: "song"
 }
   //the limitation imposed is that you can't have more than one song by the same artist
   
