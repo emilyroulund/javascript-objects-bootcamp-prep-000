@@ -7,6 +7,6 @@ var playlist = {
     
   }
   
- function removeFromPlaylist(playlisy, artistName){
+ function removeFromPlaylist(playlist, artistName){
    
  }
